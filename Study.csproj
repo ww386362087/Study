@@ -99,6 +99,7 @@
     <Compile Include="Assets\Script\DownLoad\URLVerifier.cs" />
     <Compile Include="Assets\Script\Tool\CorotineExecuter.cs" />
     <Compile Include="Assets\Script\Tool\FileHelper.cs" />
+    <Compile Include="Assets\Script\Tool\Platform.cs" />
     <Compile Include="Assets\Script\Tool\Single\MonoSingleton.cs" />
     <Compile Include="Assets\Script\Tool\Single\Singleton.cs" />
     <Compile Include="Assets\Script\Tool\zip.cs" />
